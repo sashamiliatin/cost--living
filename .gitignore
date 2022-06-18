@@ -1,10 +1,10 @@
-expense-living-backend/node_modules
-expense-living-app/node_modules
+/expense-living-backend/node_modules
+/expense-living-app/node_modules
 .idea
 *.pnp
 # testing
-xpense-living-backend/coverage
-expense-living-app/coverage
+/expense-living-backend/coverage
+/expense-living-app/coverage
 
 
 # production
