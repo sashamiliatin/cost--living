@@ -1,0 +1,6 @@
+expense-living-backend/node_modules
+expense-living-app/node_modules
+.idea
+*.pnp
+
+*.pnp.js
